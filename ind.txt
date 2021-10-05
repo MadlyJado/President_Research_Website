@@ -1,0 +1,9 @@
+<div class="titlebar">
+        <h1>Welcome to Jadon Chenard's Research Website about Rutherford B. Hayes</h1>
+        <h2><a href="facts.html">Click here to learn a bunch of facts about Rutherford B. Hayes</a></h2>
+    </div>
+    <div class="image">
+        <img src="Resources/Rutherford.jpg">
+        <p>This a portrait Photo of Rutherford B. Hayes from <a href="https://commons.wikimedia.org">commons.wikimedia.org</a></p>
+    </div>
+    <script src="index.js" async defer></script>
